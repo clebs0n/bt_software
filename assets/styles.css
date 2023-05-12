@@ -1,10 +1,4 @@
-
-  
-  .row1 {
-    
-  }
-  
-  .row2 {
+    .row2 {
     border-left: 2px solid;
     border-color: #D9D9D9;
   }
@@ -329,7 +323,6 @@ html {
 .lastP {
   padding: 4%;
   color: #FFFFFF;
-  background-color: #FF914D;
 }
 
 .section-heading {
@@ -352,19 +345,8 @@ html {
 
 .video-container {
   position: relative;
-  width: 930px;
-  height: 523px;
+  width: 120%;
+  height: 140%;
 }
 
-.video-box {
 
-  background-color: #FF914D;
-  position: absolute;
-  top: 200px;
-  left: 130px;
-  width: 70%;
-  height: 70%;
-  border: 2px solid #FF914D;
-  border-bottom-right-radius: 51px;
-  z-index: -1;
-}
