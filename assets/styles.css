@@ -135,10 +135,7 @@ a:hover {
 }
 
 .content img {
-  max-width: 20%;
-  margin-right: 10px;
-  display: block;
-  padding-right: 4%;
+  max-width: 15%;
   border-radius: 10px;
 }
 
